@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/maateusx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mateus1128@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="./COVER_LETTER.md"><img src="https://img.shields.io/badge/Cover_Letter-0f172a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Cover Letter"/></a>
-<img src="https://komarev.com/ghpvc/?username=maateusx&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=maateusx.maateusx&left_text=PROFILE%20VIEWS&left_color=0f172a&right_color=0ea5e9" alt="views"/>
 
 </div>
 
